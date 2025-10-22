@@ -1,0 +1,12 @@
+main{
+  width: 100%;
+  margin-top: 2rem;
+  text-align: center
+}
+
+main-card{
+  margin: auto;
+  width: 35%;
+  display: block;
+  margin-top: 2rem;
+}
